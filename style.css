@@ -20,16 +20,17 @@ header h1 {
   color:#fff;
   font-size: 40px;
   font-family: 'Calistoga', cursive;
-  padding: 10px;
+  padding: 20px;
   margin:0;
 }
 .navbar {
   list-style: none;
   background: #ffffff;
+  align-items: flex-end;
 }
-.navbar li {
-  float: right;
-}
+/* /* .navbar li {
+  float: right; */
+} */
 .navbar li a {
   text-decoration: none;
   padding: 15px 20px;
