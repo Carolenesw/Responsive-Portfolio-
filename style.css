@@ -82,13 +82,13 @@ header h1 {
   clear:both;
 }
 input, textarea{
-  width: 96%;
+  /* width: 96%; */
   border: 1px solid #dddddd;
   padding: 5px;
 }
 textarea {
-  height: 300px;
-  width: 900px;
+  /* height: 300px;
+  width: 900px; */
   border:1px solid #dddddd
 }
 button {
