@@ -82,13 +82,13 @@ header h1 {
   clear:both;
 }
 input, textarea{
-  /* width: 96%; */
+  width: 900px;
   border: 1px solid #dddddd;
   padding: 5px;
 }
 textarea {
-  /* height: 300px;
-  width: 900px; */
+  height: 300px;
+  width: 900px;
   border:1px solid #dddddd
 }
 button {
@@ -114,6 +114,7 @@ button {
 
 @media (max-width:600px) {
   header {width: 100%;
+    padding: 20px;
 
 }
 }
