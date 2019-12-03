@@ -110,3 +110,10 @@ button {
   padding: 50px;
   box-sizing: border-box;
 }
+
+
+@media (max-width:600px) {
+  header {width: 100%;
+
+}
+}
