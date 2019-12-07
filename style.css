@@ -2,10 +2,10 @@ body{
   margin: 0;
   background-color:#cccccc;
 }
-.content-container{
+/* .content-container{
   width: 960px;
   margin:0 auto;
-}
+} */
 header {
   background-color: #fff;
 }
@@ -111,14 +111,15 @@ button {
   box-sizing: border-box;
 }
 
-
+/* 
 @media (max-width:600px) {
   header .content-container {width: 100%;
     max-width: 600px;
   }
-  #rpg {
-    margin: 20px 20px 0 0;
 }
 
-}
-
+@media (max-width:600px) {
+  body {
+    max-width: 100%;
+  }
+} */
