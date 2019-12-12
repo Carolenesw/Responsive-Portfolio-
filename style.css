@@ -42,7 +42,9 @@ header h1 {
 }
 #body {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  margin: 20px 0px
+  margin: 20px 0px;
+  background-color: #cccccc;
+
 }
 #body .content-container {
   background-color: #fff;
